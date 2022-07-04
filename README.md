@@ -1,4 +1,4 @@
-## About My Github 💁‍♂️🙆‍♂️🙋‍♂️
+## About My Github 😀😃😄
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalseySpicy&layout=compact)
 
